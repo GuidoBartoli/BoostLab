@@ -31,14 +31,14 @@
 
 ## Installation
 1. Install latest **Miniconda** from [official site](https://docs.conda.io/projects/miniconda/en/latest/miniconda-install.html)
-2. Create a new **Python** virtual environment:
+2. Create a new virtual environment:
    1. Install required packages (choose one of the following options):
       - **CPU only**: `conda env create -f environment_cpu.yml`
       - **GPU acceleration**: `conda env create -f environment_gpu.yml`
    2. Activate the environment: `conda activate bl`
 
 ## Usage
-- Run main script from inside `bl` environment:
+Run main script from inside `bl` environment:
 ```bash
 python boostlab.py
 ```
