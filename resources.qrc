@@ -1,0 +1,47 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="about">icons/about.png</file>
+        <file alias="boostlab">icons/boostlab.png</file>
+        <file alias="analysis">icons/analysis.png</file>
+        <file alias="balance">icons/balance.png</file>
+        <file alias="classes">icons/classes.png</file>
+        <file alias="copy">icons/copy.png</file>
+        <file alias="curves">icons/curves.png</file>
+        <file alias="data">icons/data.png</file>
+        <file alias="eval1">icons/eval1.png</file>
+        <file alias="eval2">icons/eval2.png</file>
+        <file alias="explain">icons/explain.png</file>
+        <file alias="export">icons/export.png</file>
+        <file alias="features">icons/features.png</file>
+        <file alias="file">icons/file.png</file>
+        <file alias="filter">icons/filter.png</file>
+        <file alias="gain">icons/gain.png</file>
+        <file alias="heat">icons/heat.png</file>
+        <file alias="hist">icons/hist.png</file>
+        <file alias="import">icons/import.png</file>
+        <file alias="importance">icons/importance.png</file>
+        <file alias="load">icons/load.png</file>
+        <file alias="model">icons/model.png</file>
+        <file alias="normalize">icons/normalize.png</file>
+        <file alias="order">icons/order.png</file>
+        <file alias="over">icons/over.png</file>
+        <file alias="permute">icons/permute.png</file>
+        <file alias="process">icons/process.png</file>
+        <file alias="pruner">icons/pruner.png</file>
+        <file alias="raw">icons/raw.png</file>
+        <file alias="reduction">icons/reduction.png</file>
+        <file alias="replace">icons/replace.png</file>
+        <file alias="reset">icons/reset.png</file>
+        <file alias="results">icons/results.png</file>
+        <file alias="sampler">icons/sampler.png</file>
+        <file alias="save">icons/save.png</file>
+        <file alias="selection">icons/selection.png</file>
+        <file alias="show">icons/show.png</file>
+        <file alias="subsample">icons/subsample.png</file>
+        <file alias="train">icons/train.png</file>
+        <file alias="tree">icons/tree.png</file>
+        <file alias="tune">icons/tune.png</file>
+        <file alias="under">icons/under.png</file>
+    </qresource>
+</RCC>

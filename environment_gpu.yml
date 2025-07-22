@@ -1,0 +1,25 @@
+name: bl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - h5py
+  - imbalanced-learn
+  - ipython
+  - m2cgen
+  - matplotlib
+  - optuna-dashboard
+  - optuna
+  - pandas
+  - plotly
+  - py-xgboost-gpu=1.7
+  - pyside6
+  - pytables
+  - python-graphviz
+  - seaborn
+  - shap
+  - zstandard
+  - mpld3
+  - tqdm
+  - openpyxl
